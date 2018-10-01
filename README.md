@@ -1,4 +1,4 @@
-# JCG-Java_Calculator_GUI
+# JCG-Java Calculator GUI
 Калькулятор в GUI, реализовано на Java 8.
 Написан на Eclipse.
 
